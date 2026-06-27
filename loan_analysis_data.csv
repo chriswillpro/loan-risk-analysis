@@ -1,0 +1,4 @@
+﻿member_id,member_name,credit_score,loan_type,loan_amount,loan_status,total_days_late
+1,John Doe,700,Auto Loan,25000,Current,45
+2,Jane Smith,750,Personal Loan,10000,Delinquent,3
+3,Emily Johnson,680,Home Equity,50000,Current,
